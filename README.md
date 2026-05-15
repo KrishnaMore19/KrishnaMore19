@@ -1,6 +1,8 @@
 
-# 💫 About Me:
-I'm Krishna More, a Full Stack and DevOps developer from India who loves building scalable web applications and cloud-native systems. I work across the entire stack — from React and Next.js on the frontend to Node.js, FastAPI, and Spring Boot on the backend, with Docker, Kubernetes, and AWS on the infrastructure side. I've built AI-powered products using LangChain, OpenAI, and Google Gemini, and I enjoy finding ways to make software smarter and more useful. I recently completed a MERN internship at BuiltUp Technologies and a GenAI simulation with BCG, and I'm currently open to full-time roles and collaborations. If you're working on something interesting, feel free to reach out.
+# 💫 About Me
+I'm **Krishna More**, a Full Stack & DevOps Developer.  
+I build scalable web applications, cloud-native systems, and AI-powered products.  
+Currently doing **freelancing** and open to **full-time roles** & **collaborations** — let's build something great together!
 
 
 ## 🌐 Socials:
